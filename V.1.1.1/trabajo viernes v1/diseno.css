@@ -1,0 +1,182 @@
+body{
+    background: #343434;
+}
+
+.botonesizq{
+
+   /* border: 1px solid red; */  /* */
+    width: 200px;
+    height: 300px;
+    font-family: sans-serif;
+}
+
+.botonesinicio{
+    text-decoration:none;
+    color: white;
+}
+
+.contenedor{
+    /*border: 1px solid rgb(255, 0, 191);*/
+    width: auto;
+    height: 1500px;
+
+}
+
+.encabezado{
+    /*border: 1px solid blue;*/ 
+    width: 1000px;
+    height: 200px;
+    margin-right: 60px;
+    margin-top: 0%;
+    float:right;
+    font-family: sans-serif;
+    text-align:center;
+    font-size: 15px;
+    color: white;
+}
+
+
+
+.menu{
+    /*border: 1px solid blue;*/
+    width: 150px;
+    height: 200px;
+}
+
+.primercuadro{
+    /*border: 1px solid blue;*/
+    width: 1000px;
+    height: 230px;
+    margin-right: 60px;
+    margin-top: 0%;
+    float:right;
+    background-color: cyan;
+    font-family: sans-serif;
+    color: white;
+    text-align:center;
+    font-size: 15px;
+    
+}
+
+.segundocuadro{
+    /*border: 1px solid blue;*/
+    width: 1000px;
+    height: 230px;
+    margin-right: 60px;
+    float:right;
+    margin-top: 1%;
+    background-color: yellow;
+    font-family: sans-serif;
+    color: white;
+    text-align:center;
+    font-size: 15px;
+}
+
+.tercercuadro{
+    /*border: 1px solid blue;*/
+    width: 1000px;
+    height: 230px;
+    margin-right: 60px;
+    float:right;
+    margin-top: 1%;
+    background-color: orange;
+    font-family: sans-serif;
+    color: white;
+    text-align:center;
+    font-size: 15px;
+}
+
+.cuartocuadro{
+    /*border: 1px solid blue;*/
+    width: 1000px;
+    height: 230px;
+    margin-right: 60px;
+    float:right;
+    margin-top: 1%;        /* ARREGLAR MARGEN, SE SUPONE QUE LOS CUATRO CUADRADOS DEBEN USAR EL 100% de la altura, pero esta quedando un espacio, o quizas es mi resolucion*/
+    background-color: red;
+    font-family: sans-serif;
+    color: white;
+    text-align:center;
+    font-size: 15px;
+}
+
+h1{
+    text-align:center;
+    /*border: 1px solid red;*/
+    width: auto;
+    height: auto;
+    margin-left: 7%;
+}
+
+h3{
+    text-align: justify;
+    
+}
+
+.disenotexto{
+    margin: 20px 20mm 10% 8em
+}
+
+.imganimales{
+    float: left;
+}
+
+.formulario{
+    border: 1px solid red;
+    width: 1000px;
+    height: 700px;
+    margin: auto;
+    background-color: lightseagreen;
+}
+
+.cajaFormularioNombre{
+        border:1px solid green;
+        width: 300px;
+        height: 00px;
+        margin: auto;
+        margin-top: 10px;
+        border-radius: 3;
+}
+
+.cajaFormularioNombreInput{
+        /*border: 1px solid red;*/
+        width: 370px;
+        height: 300px;
+        position: center;
+        background-color: rgb(48, 47, 47);
+        border-radius: 3;
+}
+
+.cajadetexto{
+        height: 50px;
+        width: 300px;
+        font-size: 15px;
+        margin-left: 40px;
+        margin-top: 20px;
+        border-radius: 6px;
+    }
+
+    .cajaboton:hover{
+        height: 50px;
+        width: 300px;
+        margin-left: 40px;
+        margin-top: 20px;
+        background-color: #3478F5;
+        font-size: 20px;
+        color:white;
+        border-radius: 6px;
+    }
+
+    .contenedorRRSS{
+            /*border: 1px solid green;*/
+            height: 100px;
+            width: 1000px;
+            margin: auto;
+            
+    }
+
+    .colorsomos
+    {
+        color: white;
+        text-decoration: none;
+    }
